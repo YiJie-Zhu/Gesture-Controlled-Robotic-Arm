@@ -1,4 +1,9 @@
 # Gesture-Controlled-Robotic-Arm
+
+## Demo
+
+
+
 ## Description
 
 3D printer robotic arm. Joints controlled with servo motors. Arm/hand movement detected with MPU6050 accelerometer and flex sensor.
@@ -35,7 +40,7 @@ MPU6050 mpu3(4);
 
 Data taken from the library functions can then be transmitted to the other Arduino using NRF24L01 RF Tranceivers
 
-
+Data is then processed and sent to the motors through the motor driver.
 
 
 
