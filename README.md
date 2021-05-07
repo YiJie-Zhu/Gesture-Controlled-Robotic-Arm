@@ -1,8 +1,8 @@
 # Gesture-Controlled-Robotic-Arm
 
-## Demo
+## Pictures
 
-
+![Screenshot_20210507-180741_Gallery](https://user-images.githubusercontent.com/64090163/117513191-3754f280-af5f-11eb-91db-5af1d6bbcb5f.jpg)
 
 ## Description
 
